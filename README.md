@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Zhibin Du's Website
 
-You can use the [editor on GitHub](https://github.com/zhibindu/du.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Zhibin Du
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Associated Professor
 
-### Markdown
+zhibindu@126.com
+
+Zhaoqing University
+
+
+
+
+### List of Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
